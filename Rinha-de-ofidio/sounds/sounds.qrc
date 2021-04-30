@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Eat.wav</file>
+        <file>GameOver.wav</file>
+        <file>GameStart.wav</file>
+        <file>GameWin.wav</file>
+        <file>GameBoss.mp3</file>
+        <file>GameNormal.mp3</file>
+    </qresource>
+</RCC>

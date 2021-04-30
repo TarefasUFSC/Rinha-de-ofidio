@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/BossBody.png</file>
+        <file>images/BossDown.png</file>
+        <file>images/BossLeft.png</file>
+        <file>images/BossRight.png</file>
+        <file>images/BossUp.png</file>
+        <file>images/Cereja.png</file>
+        <file>images/Cookie.png</file>
+        <file>images/FrutaAmarela.png</file>
+        <file>images/FrutaVerde.png</file>
+        <file>images/FrutaVermelha.png</file>
+        <file>images/NormalBody.png</file>
+        <file>images/NormalDown.png</file>
+        <file>images/NormalLeft.png</file>
+        <file>images/NormalRight.png</file>
+        <file>images/NormalUp.png</file>
+        <file>images/PlayerBody.png</file>
+        <file>images/PlayerDown.png</file>
+        <file>images/PlayerLeft.png</file>
+        <file>images/PlayerRight.png</file>
+        <file>images/PlayerUp.png</file>
+        <file>images/GameBackground.png</file>
+        <file>images/sounds.qrc</file>
+        <file>images/StartScreen.png</file>
+    </qresource>
+</RCC>
