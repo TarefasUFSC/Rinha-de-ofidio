@@ -1,4 +1,4 @@
-# Rinha-de_ofidio
+# Rinha-de-ofidio
    Jogo da Cobrinha criado no Framework gráfico do Qt utilizando c++ para o Trabalho 8-2 da matéria de LP2
    
 # Imagens do Jogo
